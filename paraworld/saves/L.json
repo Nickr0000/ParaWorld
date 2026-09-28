@@ -1,0 +1,33 @@
+{
+ "name": "L",
+ "difficulty": 10,
+ "coins": 1000024,
+ "day": 1,
+ "city": {
+  "stock": {
+   "food": 20,
+   "materials": 15,
+   "blueprints": 20
+  },
+  "tools": [],
+  "people": [
+   {
+    "role": "gatherer",
+    "founder": true,
+    "tool": null,
+    "project": null,
+    "busy": false
+   }
+  ]
+ },
+ "shop": {
+  "farmer": 0,
+  "gatherer": 2,
+  "guard": 2,
+  "scientist": 2
+ },
+ "colonies": [],
+ "transfers": [],
+ "magnate": false,
+ "gate": false
+}
